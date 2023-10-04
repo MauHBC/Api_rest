@@ -18,7 +18,6 @@ var _fotoRoutes = require('./routes/fotoRoutes'); var _fotoRoutes2 = _interopReq
 const whiteList = [
   'https://react2.dominioparateste.com',
   'http://localhost:3000',
-  'https://pt.wikipedia.org',
 ];
 
 const corsOptions = {
