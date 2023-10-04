@@ -18,6 +18,7 @@ import fotoRoutes from './routes/fotoRoutes';
 const whiteList = [
   'https://react2.dominioparateste.com',
   'http://localhost:3000',
+  'https://pt.wikipedia.org',
 ];
 
 const corsOptions = {
