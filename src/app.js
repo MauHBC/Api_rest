@@ -19,7 +19,7 @@ import fotoRoutes from './routes/fotoRoutes';
 const whiteList = [
   'https://dominioparateste.com',
   'http://localhost:3000',
-  'https://dominioparateste.netlify.app/',
+  'https://dominioparateste.netlify.app',
 ];
 
 const corsOptions = {

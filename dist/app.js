@@ -19,7 +19,7 @@ var _fotoRoutes = require('./routes/fotoRoutes'); var _fotoRoutes2 = _interopReq
 const whiteList = [
   'https://dominioparateste.com',
   'http://localhost:3000',
-  'https://dominioparateste.netlify.app/',
+  'https://dominioparateste.netlify.app',
 ];
 
 const corsOptions = {
