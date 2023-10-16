@@ -17,8 +17,9 @@ import alunoRoutes from './routes/alunoRoutes';
 import fotoRoutes from './routes/fotoRoutes';
 
 const whiteList = [
-  'https://react2.dominioparateste.com',
+  'https://dominioparateste.com',
   'http://localhost:3000',
+  'https://dominioparateste.netlify.app/',
 ];
 
 const corsOptions = {

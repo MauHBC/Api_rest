@@ -17,8 +17,9 @@ var _alunoRoutes = require('./routes/alunoRoutes'); var _alunoRoutes2 = _interop
 var _fotoRoutes = require('./routes/fotoRoutes'); var _fotoRoutes2 = _interopRequireDefault(_fotoRoutes);
 
 const whiteList = [
-  'https://react2.dominioparateste.com',
+  'https://dominioparateste.com',
   'http://localhost:3000',
+  'https://dominioparateste.netlify.app/',
 ];
 
 const corsOptions = {
